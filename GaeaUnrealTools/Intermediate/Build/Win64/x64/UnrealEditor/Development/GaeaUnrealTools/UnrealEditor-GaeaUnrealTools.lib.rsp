@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GaeaUnrealTools.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Github/GaeaIsland/Intermediate/Build/Win64/x64/GaeaIslandEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Github/GaeaIsland/Plugins/GaeaUnrealTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/GaeaUnrealTools/Module.GaeaUnrealTools.cpp.obj"
+"C:/Github/GaeaIsland/Plugins/GaeaUnrealTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/GaeaUnrealTools/GaeaUnrealTools.cpp.obj"
+"C:/Github/GaeaIsland/Plugins/GaeaUnrealTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/GaeaUnrealTools/Default.rc2.res"
+/OUT:"C:/Github/GaeaIsland/Plugins/GaeaUnrealTools/Intermediate/Build/Win64/x64/UnrealEditor/Development/GaeaUnrealTools/UnrealEditor-GaeaUnrealTools.lib"

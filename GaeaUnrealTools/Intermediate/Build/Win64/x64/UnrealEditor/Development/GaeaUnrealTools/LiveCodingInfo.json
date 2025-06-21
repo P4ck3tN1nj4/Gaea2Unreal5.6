@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GaeaUnrealTools.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"GaeaUnrealTools.cpp.obj"
+		]
+	}
+}

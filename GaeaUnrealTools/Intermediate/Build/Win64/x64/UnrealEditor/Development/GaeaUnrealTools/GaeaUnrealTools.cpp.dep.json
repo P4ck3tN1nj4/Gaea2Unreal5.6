@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\gaeaisland\\plugins\\gaeaunrealtools\\source\\gaeaunrealtools\\private\\gaeaunrealtools.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\gaeaisland\\intermediate\\build\\win64\\x64\\gaeaislandeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\gaeaisland\\plugins\\gaeaunrealtools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gaeaunrealtools\\definitions.gaeaunrealtools.h",
+            "c:\\github\\gaeaisland\\plugins\\gaeaunrealtools\\source\\gaeaunrealtools\\public\\gaeaunrealtools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

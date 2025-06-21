@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GaeaUEToolsEditor.cpp.obj": [
+			"GaeaLandscapeComponent.gen.cpp.obj",
+			"GaeaSubsystem.gen.cpp.obj",
+			"GaeaUEToolsEditor.init.gen.cpp.obj",
+			"GMCSettings.gen.cpp.obj",
+			"ImporterPanelSettings.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"GaeaCommands.cpp.obj",
+			"GaeaEditorStyle.cpp.obj",
+			"GaeaLandscapeComponent.cpp.obj",
+			"GaeaSubsystem.cpp.obj",
+			"GaeaUEToolsEditor.cpp.obj",
+			"GaeaWindow.cpp.obj",
+			"GMCSettings.cpp.obj",
+			"GWindow.cpp.obj",
+			"ImporterPanelSettings.cpp.obj"
+		]
+	}
+}

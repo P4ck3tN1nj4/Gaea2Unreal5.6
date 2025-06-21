@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\github\\gaeaisland\\plugins\\gaeaunrealtools\\source\\gaeauetoolseditor\\private\\gaealandscapecomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\github\\gaeaisland\\intermediate\\build\\win64\\x64\\gaeaislandeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\github\\gaeaisland\\plugins\\gaeaunrealtools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gaeauetoolseditor\\definitions.gaeauetoolseditor.h",
+            "c:\\github\\gaeaisland\\plugins\\gaeaunrealtools\\source\\gaeauetoolseditor\\public\\gaealandscapecomponent.h",
+            "c:\\github\\gaeaisland\\plugins\\gaeaunrealtools\\intermediate\\build\\win64\\unrealeditor\\inc\\gaeauetoolseditor\\uht\\gaealandscapecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
